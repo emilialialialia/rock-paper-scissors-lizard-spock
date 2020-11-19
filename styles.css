@@ -1,0 +1,13 @@
+img {
+    width: 300px;
+    height: auto;
+    border-radius: 20px !important;
+    border: 2px !important;
+    border-color: #FFFFFF !important;
+    border-style: solid !important;
+    padding: 5px;
+}
+
+#endScreen {
+    display: none;
+}
